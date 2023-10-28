@@ -620,7 +620,7 @@ function NavbarContainer() {
 
               {/* Contact Page Link */}
               <li className="nav-item">
-                <a className="nav-link" href="contact.html">
+                <a className="nav-link" href="contact">
                   Contact us
                 </a>
               </li>
